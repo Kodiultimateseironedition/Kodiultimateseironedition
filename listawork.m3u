@@ -1,0 +1,224 @@
+#EXTINF:-1,ALEX BERLIN (Urban Music)
+http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
+
+#EXTINF:-1,Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8
+
+#EXTINF:-1,Clubland
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+
+#EXTINF:-1,Djing Classic
+http://www.djing.com/tv/i-05.m3u8
+
+#EXTINF:-1,Djing HD
+http://cdn.djing.com/tv/05.m3u8
+
+#EXTINF:-1,Djing Ibiza
+http://cdn.djing.com/tv/d-05.m3u8
+
+#EXTINF:-1,DJING Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+
+#EXTINF:-1,Djing Underground
+http://cdn.djing.com/tv/u-05.m3u8
+
+#EXTINF:-1,Djing
+https://www.djing.com/tv/live.m3u8
+
+#EXTINF:-1,Djing dancefloor
+https://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:-1,Djing fta
+https://www.djing.com/tv/h-01-fta.m3u8
+
+#EXTINF:-1,DJING hits
+https://www.djing.com/tv/hits.m3u8
+
+#EXTINF:-1,DJING animation
+https://www.djing.com/tv/animation.m3u8
+
+#EXTINF:-1,Djing underground
+https://www.djing.com/tv/underground.m3u8
+
+#EXTINF:-1,Djing summer-vibes
+https://www.djing.com/tv/session_summer-vibes.m3u8
+
+#EXTINF:-1,Djing electro-rock
+https://www.djing.com/tv/session_electro-rock.m3u8
+
+#EXTINF:-1,DJING french-touch
+https://www.djing.com/tv/session_french-touch.m3u8
+
+#EXTINF:-1,Djing karaoke
+https://www.djing.com/tv/karaoke.m3u8
+
+#EXTINF:-1,DJING hedonist
+https://www.djing.com/tv/session_hedonist.m3u8
+
+#EXTINF:-1,Djing wild-edm
+https://www.djing.com/tv/session_wild-edm.m3u8
+
+#EXTINF:-1,Dream TV
+http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+
+#EXTINF:-1,ESKA BEST MUSIC TV
+http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
+
+#EXTINF:-1,ESKA PARTY TV
+http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
+
+#EXTINF:-1,Fresh TV
+http://wse.planeta-online.tv:1935/live/channel_4/index.m3u8
+
+#EXTINF:-1,Global Star TV
+http://msk2.peers.tv/streaming/globalstartv/126/tvrec/playlist.m3u8
+
+#EXTINF:-1,HD Fashion UA
+http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
+
+#EXTINF:-1,Heart TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+
+#EXTINF:-1,Hit Music
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:-1,HITV
+http://rosshow.gcdn.co/rosshow_live/ngrp:hittv_all/chunklist_b3200000.m3u8
+
+#EXTINF:-1,ID Fashion HD
+http://95.67.8.22/hls/idfashion/index.m3u8
+
+#EXTINF:-1,MCM Top
+http://185.162.141.69:9009/mcmtop
+
+#EXTINF:-1,MTV (???)
+http://81.30.182.82:18092/hls/live.m3u8
+
+#EXTINF:-1,MTV AM
+http://mtvam.ru/hlsam/playlist.m3u8
+
+#EXTINF:-1,MTV Dance
+http://185.162.141.69:9014/mtvdance
+
+#EXTINF:-1,Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicboxtv.sdp/playlist.m3u8
+
+#EXTINF:-1,Music Box UA
+http://212.26.132.86/hls/mb_ua_2500.m3u8
+
+#EXTINF:-1,Music Vox TV
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+
+#EXTINF:-1,MUSIC VOX TV Olds cool
+http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
+
+#EXTINF:-1,Muzzone
+http://live.muzzone.cdnvideo.ru/muzzone/muzzone.sdp/playlist.m3u8
+
+#EXTINF:-1,Nebiset
+http://hls.nebiset.tv/nebiset.m3u8
+
+#EXTINF:-1,NRJ Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+
+#EXTINF:-1,NRJ TV
+http://energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8
+
+#EXTINF:-1,Ocko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1,Ocko expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1,Ocko gold
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+
+#EXTINF:-1,One.by
+http://rtmp.one.by:1200
+
+#EXTINF:-1,One.by HD
+http://rtmp.one.by:1300
+
+#EXTINF:-1,Polo PARTY TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+
+#EXTINF:-1,Radio 105 TV
+http://tv.105.net/live/105Test1/playlist.m3u8
+
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:-1,RADIO ONE TV
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+
+#EXTINF:-1,Russian Music Box
+http://musicbox.cdnvideo.ru/musicbox/musicbox.sdp/playlist.m3u8
+
+#EXTINF:-1,Virgin Radio TV
+http://tv.105.net:1935/live/virgin1/index.m3u8
+
+#EXTINF:-1,Wawa TV
+http://stream.cdn.smcloud.net/wawa-t/wawa_720p/playlist.m3u8
+
+#EXTINF:-1,World Fashion
+http://cdn-01.bonus-tv.ru:8080/wfcint/index.m3u8
+
+#EXTINF:-1,World Fashion
+http://cdn-03.bonus-tv.ru/wfc/wfhdeu/type/none/eol/20200101T0000/hash/aabac2e34bf0820ea622974e83ae509b36cff888/playlist.m3u8
+
+#EXTINF:-1,World Fashion RU
+http://cdn-01.bonus-tv.ru:8080/wfcru/index.m3u8
+
+#EXTINF:-1,World Fashion RU
+http://cdn-03.bonus-tv.ru/wfc/wfhd/type/none/eol/20200101T0000/hash/9a88dd19442705b52370171ff0c442e002c0e219/playlist.m3u8
+
+#EXTINF:-1,?2 ?? HD
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_hd.sdp/playlist.m3u8
+
+#EXTINF:-1,??? Music
+http://cdn-g.bonus-tv.ru/tntmusic/playlist.m3u8
+
+#EXTINF:-1,Brits Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:-1,Dance/EDM
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:-1,Hip-Hop And R&B
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:-1,Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:-1,Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:-1,Kidz Only!
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:-1,Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:-1,Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:-1,Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:-1,Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:-1,Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:-1,Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:-1,R&B Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:-1,Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:-1,Rap 2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+#EXTINF:-1,Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:-1,Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+#EXTINF:-1,Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+#EXTINF:-1,Today
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:-1,Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC144/chunklist.m3u8
+#EXTINF:-1,Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:-1,Y2K
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
